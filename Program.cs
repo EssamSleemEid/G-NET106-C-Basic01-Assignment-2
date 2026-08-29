@@ -126,6 +126,17 @@
             //Console.WriteLine(newcopie);
             #endregion
 
+            #region Question11
+            //11- Declare an int? year = null;. Print whether it has a value, then assign it 2023 and print its value. 
+
+            //int? year = null;
+
+            //Console.WriteLine(year);
+
+            //year = 2023;
+
+            //Console.WriteLine(year);
+            #endregion
 
 
 
