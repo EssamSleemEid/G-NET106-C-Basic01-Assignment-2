@@ -113,6 +113,19 @@
             //Console.WriteLine(text.GetType());
             #endregion
 
+            #region Question10
+            //10- Declare int copies = 100;. Box it into an object variable, then unbox it back into a new int variable, and print both. 
+
+            //int copie = 100;
+
+            //object obj = copie;
+
+            //int newcopie = (int)obj;
+
+            //Console.WriteLine(copie);
+            //Console.WriteLine(newcopie);
+            #endregion
+
 
 
 
