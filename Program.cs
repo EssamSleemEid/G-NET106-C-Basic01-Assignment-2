@@ -166,6 +166,15 @@
             //Console.WriteLine(title);
             #endregion
 
+            #region Question15
+            //15- Given string? name = "Ahmed"; (you are sure it's not null here), assign it to a non-nullable string confirmedName using the ! operator. 
+
+            //string? name = "Ahmed";
+
+            //string confirmed = name!;
+
+            //Console.WriteLine(confirmed);
+            #endregion
         }
     }
 }
