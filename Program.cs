@@ -31,6 +31,16 @@
 
             #endregion
 
+            #region Question3
+            //3-Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it. int pages = "464"; Compile-time error — you can't put text (string) into an int variable. int pages = 464; 
+
+            //its a Compile Time Erorr bc its int not string to be between " " 
+
+            // int pages= 464;        //fixed
+            #endregion
+
+
+
         }
     }
 }
